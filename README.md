@@ -38,7 +38,7 @@ The goal of this repository is not only to learn machine learning algorithms, bu
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 The repository is organized progressively, from machine learning fundamentals to advanced topics and practical projects.
 
