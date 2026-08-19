@@ -40,35 +40,24 @@ The goal of this repository is not only to learn machine learning algorithms, bu
 
 # Repository Structure
 
+The repository is organized progressively, from machine learning fundamentals to advanced topics and practical projects.
+
 ```text
-MACHINE_LEARNING/
-│
-├── 01_FUNDAMENTALS/
-├── 02_MATH_FOR_ML/
-│   ├── linear_algebra/
-│   ├── calculus/
-│   └── probability_statistics/
-├── 03_SCIKIT_LEARN/
-├── 04_REGRESSION/
-├── 05_CLASSIFICATION/
-├── 06_CLUSTERING/
-├── 07_DIMENSIONALITY_REDUCTION/
-├── 08_ENSEMBLE_METHODS/
-├── 09_TIME_SERIES/
-├── 10_MODEL_INTERPRETABILITY/
-├── 11_IMBALANCED_LEARNING/
-├── 12_RECOMMENDATION_SYSTEMS/
-├── 13_DEEP_LEARNING/
-│   ├── fundamentals/
-│   ├── pytorch/
-│   ├── tensorflow_keras/
-│   ├── cnns/
-│   ├── rnns/
-│   ├── transformers/
-│   └── transfer_learning/
-├── 14_EDGE_AI_EXPORT/
-├── 15_PROJECTS/
-└── assets/
+01_FUNDAMENTALS/
+02_MATH_FOR_ML/
+03_SCIKIT_LEARN/
+04_REGRESSION/
+05_CLASSIFICATION/
+06_CLUSTERING/
+07_DIMENSIONALITY_REDUCTION/
+08_ENSEMBLE_METHODS/
+09_TIME_SERIES/
+10_MODEL_INTERPRETABILITY/
+11_IMBALANCED_LEARNING/
+12_RECOMMENDATION_SYSTEMS/
+13_DEEP_LEARNING/
+14_EDGE_AI_EXPORT/
+15_PROJECTS/
 ```
 ---
 
