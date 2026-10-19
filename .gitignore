@@ -1,31 +1,47 @@
+# ============================
 # Python
+# ============================
 __pycache__/
 *.py[cod]
 *.pyo
 
+# ============================
 # Virtual environments
+# ============================
 venv/
 .venv/
 env/
 
+# ============================
 # Jupyter
+# ============================
 .ipynb_checkpoints/
 
+# ============================
 # VS Code
+# ============================
 .vscode/
 
+# ============================
 # Environment variables
+# ============================
 .env
 
+# ============================
 # Logs
+# ============================
 *.log
 
+# ============================
 # Python packaging
+# ============================
 build/
 dist/
 *.egg-info/
 
+# ============================
 # Model artifacts
+# ============================
 *.pkl
 *.joblib
 *.h5
@@ -33,24 +49,34 @@ dist/
 *.onnx
 *.tflite
 
+# ============================
 # MLflow
+# ============================
 mlruns/
 
+# ============================
 # macOS
+# ============================
 .DS_Store
 
+# ============================
 # Temporary files
+# ============================
 *.tmp
 *.bak
 
-# URL Management & Analytics
-15_PROJECTS/06_URL_Management_and_Analytics/
-
-# other
+# ============================
+# Other Folders
+# ============================
 09_TENSORFLOW_KERAS/Tutorials/
+15_PROJECTS/06_URL_Management_and_Analytics/
 _WIP/
 src/
 assets/
-
-
 test/
+
+# ============================
+# Other Files
+# ============================
+blueprint.md
+script.py
