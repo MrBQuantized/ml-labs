@@ -10,12 +10,22 @@ __pycache__/
 # ============================
 venv/
 .venv/
-env/
+.env
+
+# ============================
+# Testing and Tooling
+# ============================
+.pytest_cache/ 
+.mypy_cache/
+.ruff_cache/
+.coverage htmlcov/
+
 
 # ============================
 # Jupyter
 # ============================
 .ipynb_checkpoints/
+
 
 # ============================
 # VS Code
